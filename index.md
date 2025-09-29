@@ -21,4 +21,10 @@ if [ $rem -eq 0 ]; then
 else
   echo "$n is an odd number."
 fi
-```
+```  
+
+- [x] Turn on GitHub
+- [x] Open GitHub Learning Page
+- [x] Start Learning
+- [x] Completed 3 step
+- [ ] Completed 6 step
